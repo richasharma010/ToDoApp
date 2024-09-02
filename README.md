@@ -1,5 +1,7 @@
-#To See the Frontend Code Please visit this link:
+# To See the Frontend Code Please visit this link:
 https://github.com/richasharma010/ToDoAppFrontend
+
+## Deployed Link: https://richa-todo-app.netlify.app/
 
 # Getting Started with Create React App
 
